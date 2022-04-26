@@ -11,9 +11,7 @@ Transaction Id GR2Y56nXN4AByU8NLWsPsaovnzffJ5J7yLb89TnDLD5Q
 To see the transaction in the transaction explorer, please open this url in your browser
 https://explorer.testnet.near.org/transactions/GR2Y56nXN4AByU8NLWsPsaovnzffJ5J7yLb89TnDLD5Q
 'hello tomgrow.testnet'
-
-<img width="693" alt="Screen Shot 2022-04-26 at 10 54 20 AM" src="https://user-images.githubusercontent.com/473048/165338893-6c9571c0-7883-4d7a-abeb-73c125648e97.png">
-
+<img width="1191" alt="Screen Shot 2022-04-26 at 11 41 34 AM" src="https://user-images.githubusercontent.com/473048/165339308-11eb428e-f66e-4bb1-be58-b758c976879f.png">
 
 *******************
 https://explorer.testnet.near.org/transactions/Afw6AP8tNTNduQQZ1YqYi8T5pEx5LYLziP9h2atsXmUg
